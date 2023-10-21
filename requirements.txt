@@ -5,3 +5,4 @@ scipy
 tensorflow
 tensorflow-io
 pyaudio
+matplotlib
