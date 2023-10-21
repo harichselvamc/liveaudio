@@ -4,4 +4,4 @@ pandas
 scipy
 tensorflow
 tensorflow-io
-pyaudio --force
+pyaudio
