@@ -6,3 +6,4 @@ tensorflow
 tensorflow-io
 pyaudio
 matplotlib
+librosa
