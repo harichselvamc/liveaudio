@@ -4,5 +4,4 @@ pandas
 scipy
 tensorflow
 tensorflow-io
-pyaudio
-portaudio19-dev
+pyaudio --force
